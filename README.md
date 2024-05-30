@@ -1,3 +1,3 @@
-Your Name : Oluwatomisin Sanni
-Project Title : LAB3
-Student ID : 8852068
+Your Name: Oluwatomisin Sanni
+Project Title: Lab3
+Student ID: 8852068
