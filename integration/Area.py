@@ -1,4 +1,3 @@
-import __main__
 import math
 
 def Circle ():
